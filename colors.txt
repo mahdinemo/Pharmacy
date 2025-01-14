@@ -1,0 +1,7 @@
+palette color of website:
+
+1 :   #fff      white
+
+2 : #0F0844
+
+3 : #140B5C
